@@ -1,0 +1,7 @@
+package searchingimpl;
+import searchingapp.*;
+public class SearchImpl implements SearchInterface {
+   public void search(){
+      System.out.println("search Interface.......");
+   }
+}
