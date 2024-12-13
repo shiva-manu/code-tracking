@@ -1,7 +1,7 @@
 import java.applet.Applet;
 import java.awt.*;
 /*    <APPLET CODE="HelloAppletMsg" width=500 height=400>
-<PARAM NAME="Greeting" VALUE="Hello, How are you?"></PARAM>
+<PARAM NAME="Greeting" VALUE="Hello, How are you?"></PARAM> 
 </APPLET> */
 public class HelloAppletMsg extends Applet{
    String msg;
